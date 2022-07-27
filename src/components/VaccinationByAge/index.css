@@ -1,0 +1,15 @@
+.vaccine-age-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.vaccine-age-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

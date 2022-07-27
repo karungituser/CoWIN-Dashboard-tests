@@ -1,0 +1,14 @@
+.vaccine-gender-container {
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 25px;
+  width: 80%;
+}
+.vaccine-gender-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
